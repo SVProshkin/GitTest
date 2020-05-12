@@ -36,3 +36,5 @@ def median(ns_array):
 print('Медиана:\n', median(lst))
 print('Исходный массив:\n', lst)
 print('Отсортированный масив:\n', gnome_sort(lst))
+
+# Тестовое изменение 3

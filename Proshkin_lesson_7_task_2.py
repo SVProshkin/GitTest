@@ -33,3 +33,5 @@ def merge_sort(array):
 
 
 print('Отсортированный масив:\n', merge_sort(lst))
+
+# Тестовое изменение 2
