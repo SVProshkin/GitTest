@@ -22,3 +22,5 @@ def babble_sort(array):
     return array
 
 print('Отсортированный масив:\n', babble_sort(lst))
+
+# Тестовое изменение
